@@ -1,3 +1,0 @@
-com.example.tiendasgeinzadmin.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
