@@ -1,0 +1,6 @@
+com.example.tiendasgeinzadmin.test.app-annotation-experimental-1.4.0-0 C:\Users\Benjamin\.gradle\caches\transforms-4\41e16fa1a438c23220e3d7a81565afbd\transformed\annotation-experimental-1.4.0\res
+com.example.tiendasgeinzadmin.test.app-core-1.5.0-1 C:\Users\Benjamin\.gradle\caches\transforms-4\b23365178f3cafcf197fae9f77dad459\transformed\core-1.5.0\res
+com.example.tiendasgeinzadmin.test.app-androidTest-2 C:\Users\Benjamin\AndroidStudioProjects\TiendasGeinzAdmin\app\build\generated\res\resValues\androidTest\debug
+com.example.tiendasgeinzadmin.test.app-mergeDebugAndroidTestResources-3 C:\Users\Benjamin\AndroidStudioProjects\TiendasGeinzAdmin\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.tiendasgeinzadmin.test.app-mergeDebugAndroidTestResources-4 C:\Users\Benjamin\AndroidStudioProjects\TiendasGeinzAdmin\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.tiendasgeinzadmin.test.app-debugAndroidTest-5 C:\Users\Benjamin\AndroidStudioProjects\TiendasGeinzAdmin\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
