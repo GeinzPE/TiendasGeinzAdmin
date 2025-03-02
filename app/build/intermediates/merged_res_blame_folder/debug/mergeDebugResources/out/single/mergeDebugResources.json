@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_item_historial.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/item_historial.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_img_perfil.png.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/img_perfil.png"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_vaner_pruva.png.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/vaner_pruva.png"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_camino_pedido_icon.webp.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/camino_pedido_icon.webp"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_fragment_articulos_fr.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/fragment_articulos_fr.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_start_one.png.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/start_one.png"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/xml_data_extraction_rules.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_whatsapp_icon.png.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/whatsapp_icon.png"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/xml_backup_rules.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_item_pedidos.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/item_pedidos.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_activity_principal.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/activity_principal.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_activity_main.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_start_two.png.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/start_two.png"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_driver_pedido_icon.webp.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/driver_pedido_icon.webp"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_baseline_edit_24.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/baseline_edit_24.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_logo_geinz_circular.webp.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/logo_geinz_circular.webp"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_round_review.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/round_review.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_activity_editar_perfil.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/activity_editar_perfil.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_activity_cambar_estado_designar_delivery.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/activity_cambar_estado_designar_delivery.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_activity_agregar_qr_pagos.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/activity_agregar_qr_pagos.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_round_icono_pedidos_compra.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/round_icono_pedidos_compra.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_fragment_promociones_fr.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/fragment_promociones_fr.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_icon_review_driver.webp.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/icon_review_driver.webp"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_llamada_icon.png.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/llamada_icon.png"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_activity_review.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/activity_review.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_start_five.png.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/start_five.png"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_tienda_pedido_icon.webp.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/tienda_pedido_icon.webp"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_activity_articulos.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/activity_articulos.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_menu_icon.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/menu_icon.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_roun_dialog.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/roun_dialog.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_start_four.png.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/start_four.png"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_fragment_servicios_fr.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/fragment_servicios_fr.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_notificaciones_swich.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/notificaciones_swich.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_start_tree.png.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/start_tree.png"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_item_articulos.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/item_articulos.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_agregar_metodo_pago.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/agregar_metodo_pago.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_dialog_prezonalisado_pago.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/dialog_prezonalisado_pago.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_fragment_perfil_fr.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/fragment_perfil_fr.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_item_review.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/item_review.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_fragment_noticias_fr.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/fragment_noticias_fr.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_fragment_pedidos_fr.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/fragment_pedidos_fr.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/layout_activity_horarios_tienda.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/activity_horarios_tienda.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_round_icono_pedidos_estado.xml.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/round_icono_pedidos_estado.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/drawable_entregado_pedido_icon.webp.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/drawable/entregado_pedido_icon.webp"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-debug-45:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/mipmap-hdpi/ic_launcher.webp"
+    }
+]

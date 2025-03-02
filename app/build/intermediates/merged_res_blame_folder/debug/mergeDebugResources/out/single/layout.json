@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/item_pedidos.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/item_pedidos.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/activity_agregar_qr_pagos.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/activity_agregar_qr_pagos.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/item_historial.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/item_historial.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/notificaciones_swich.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/notificaciones_swich.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/fragment_servicios_fr.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/fragment_servicios_fr.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/activity_horarios_tienda.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/activity_horarios_tienda.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/activity_review.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/activity_review.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/activity_main.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/agregar_metodo_pago.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/agregar_metodo_pago.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/activity_cambar_estado_designar_delivery.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/activity_cambar_estado_designar_delivery.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/fragment_articulos_fr.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/fragment_articulos_fr.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/fragment_noticias_fr.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/fragment_noticias_fr.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/activity_articulos.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/activity_articulos.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/item_review.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/item_review.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/fragment_pedidos_fr.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/fragment_pedidos_fr.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/dialog_prezonalisado_pago.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/dialog_prezonalisado_pago.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/activity_principal.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/activity_principal.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/item_articulos.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/item_articulos.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/fragment_promociones_fr.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/fragment_promociones_fr.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/fragment_perfil_fr.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/fragment_perfil_fr.xml"
+    },
+    {
+        "merged": "com.geinzTienda.tiendasgeinzadmin.app-mergeDebugResources-44:/layout/activity_editar_perfil.xml",
+        "source": "com.geinzTienda.tiendasgeinzadmin.app-main-47:/layout/activity_editar_perfil.xml"
+    }
+]
